@@ -1,8 +1,9 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:7C3AED&height=180&section=header&text=Davi%20Moraes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
   
+  <img width="1500" height="716" alt="mario-banner" src="https://github.com/user-attachments/assets/d7cd9a84-68c0-4ec4-ace7-1f5a4c62c845" />
+
   <h3>Computer Science Student | Technology | Data | Business</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Exploring+Technology+and+Innovation;Learning+Software+Development;Connecting+Data+and+Business" />
